@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="DiasSemana">
+         <item>"Lunes"</item>
+         <item>"Martes"</item>
+         <item>"Miercoles"</item>
+         <item>"Jueves"</item>
+         <item>"Viernes"</item>
+     </string-array>
+
+    <string-array name="Alumnos">
+        <item>"Juan"</item>
+        <item>"Manolo"</item>
+        <item>"Cristina</item>
+        <item>"Laura"</item>
+        <item>"Bartolo"</item>
+    </string-array>
+</resources>

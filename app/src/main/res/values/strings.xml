@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CreacionyLogIndeUsuario</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="title_activity_creacion_usuario">CreacionUsuario</string>
+    <string name="title_activity_horario_dia_alumno">HorarioDiaAlumno</string>
+    <string name="title_activity_seleccionar_horario_alumno">SeleccionarHorarioAlumno</string>
+    <string name="title_activity_seleccionar_horario_alumno2">SeleccionarHorarioAlumno2</string>
+    <string name="title_activity_bla">bla</string>
+</resources>
